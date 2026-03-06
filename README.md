@@ -28,8 +28,7 @@ docker-compose up -d --build
 3. Открытие главной php страницы:
 ```http://localhost:8080```
 
-4. Просмотр очередей через RabbitMQ
-
+4. Просмотр очередей через RabbitMQ:
 ```http://localhost:15672```
 
 ---
