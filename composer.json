@@ -1,0 +1,16 @@
+{
+    "name": "david/web_lab_7_rabbit",
+    "description": "Композер, что с него взять :/",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fargetik",
+            "email": "davidonsky1234@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10",
+        "php-amqplib/php-amqplib": "^3.2",
+        "nmred/kafka-php": "^0.2.0"
+    }
+}
